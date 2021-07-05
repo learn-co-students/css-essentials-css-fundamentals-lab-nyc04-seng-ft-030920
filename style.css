@@ -3,3 +3,28 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align:center;
+}
+
+img {
+  display:block;
+  margin:0 auto;
+}
+
+nav a {
+  padding-left:10px;
+  padding-right:10px;
+  background:grey;
+}
+
+#featured-propery p {
+  font-size: 3px;
+  text-align: center;
+}
+
+#details div{
+  float: left;
+  display: block;
+}
